@@ -2,6 +2,6 @@ Eighteen years building enterprise software, most recently as Director of Enterp
 
 ## Selected work
 
-**[codeograph](https://github.com/gvsambhu/codeograph)** — A deterministic knowledge graph of a codebase with LLM enrichment layered on top: AI as augmentor, not engine. The bet is a reproducible core held accountable by an eval framework, telemetry, and a cost-safety floor — production discipline, from v1.
+**[codeograph](https://github.com/gvsambhu/codeograph)** — A deterministic knowledge graph of a Java/Spring codebase, with an advisory LLM layer on top: AI as augmentor, not engine. The bet is a reproducible core that stays authoritative, with an eval framework, telemetry and a cost-safety floor built in from the start.
 
 **[bantumi](https://github.com/gvsambhu/bantumi-showcase)** — A Mancala game with a classical minimax + alpha-beta AI opponent. Shipped in 2014; still around 4.7★ across 120+ reviews after a decade of strangers judging whether it holds up.
